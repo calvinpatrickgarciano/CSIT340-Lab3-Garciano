@@ -27,7 +27,7 @@ function ProjectsSection() {
           title="About Me in React"
           description="A personal About Me webpage rebuilt using React and Tailwind CSS."
           tech="React · Tailwind CSS"
-          link="https://github.com/calvinpatrickgarciano"
+          link="https://github.com/calvinpatrickgarciano/CSIT340-Lab1-Garciano"
         />
 
         <ProjectCard
